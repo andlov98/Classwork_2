@@ -1,4 +1,6 @@
 # Classwork_2
 Classwork 14/11/2017
 
-## Скриншоты с задания
+# Скриншоты заданий с семинара
+
+#### [I'm an inline-style link](https://quickdraw.withgoogle.com/) 
