@@ -3,4 +3,4 @@ Classwork 14/11/2017
 
 # Скриншоты заданий с семинара
 
-#### [I'm an inline-style link](https://quickdraw.withgoogle.com/) 
+#### [https://quickdraw.withgoogle.com/](https://github.com/andlov98/Classwork_2/blob/master/1.jpg?raw=true/) 
